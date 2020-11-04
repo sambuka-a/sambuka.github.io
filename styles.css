@@ -1,10 +1,9 @@
 h1 {
     background-color: beige;
-    background-size: cover;
     color: black;
     opacity: 0.75;
     text-align: center;
-    padding: 1em 1em;
+    padding: 1em;
     font-family: Lucida Console, Courier, monospace;
   }
   
@@ -13,14 +12,12 @@ h1 {
     color: black;
     opacity: 0.9;
     text-align: center;
-    padding: 0em;
+    padding: 1em;
     font-family: Lucida Console, Courier, monospace;    
   }
   
   table {
-    align: center;
     border: 1px solid black;
-    width: 650px;
         }
   
     th, td {
