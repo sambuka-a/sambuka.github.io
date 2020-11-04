@@ -17,7 +17,9 @@ h1 {
   }
   
   table {
+    align: center;
     border: 1px solid black;
+    width: fit-content;
         }
   
     th, td {
