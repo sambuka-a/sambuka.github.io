@@ -1,0 +1,36 @@
+h1 {
+    background-color: beige;
+    color: black;
+    opacity: 0.75;
+    text-align: center;
+    padding: 1em 1em;
+    font-family: Lucida Console, Courier, monospace;
+  }
+  
+  h2 {
+    background-color: rgb(148, 148, 121);
+    color: black;
+    opacity: 0.9;
+    text-align: center;
+    padding: 0em;
+    font-family: Lucida Console, Courier, monospace;    
+  }
+  
+  table {
+    border: 1px solid black;
+    width: 100%;
+        }
+  
+    th, td {
+    border: 1px solid grey;
+    }
+  
+    .theader {
+      color: black;
+      background-color: rgb(148, 148, 121);
+    }
+  
+    caption {
+      font-family: Lucida Console, Courier, monospace;
+      font-weight: 600;
+    }
