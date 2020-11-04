@@ -1,5 +1,6 @@
 h1 {
     background-color: beige;
+    background-size: 650px;
     color: black;
     opacity: 0.75;
     text-align: center;
@@ -19,7 +20,6 @@ h1 {
   table {
     border: 1px solid black;
     width: 650px;
-    margin: 0 auto;
         }
   
     th, td {
